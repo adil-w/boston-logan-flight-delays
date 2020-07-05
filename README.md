@@ -4,4 +4,6 @@ This study explores various aspects of domestic flights departing from Boston Lo
 
 All the analysis and visualization have been done using R. The main libraries include ggplot2, plotly, and dplyr. <br>
 
-**Please see the file *pdf_report* for a detailed breakdown of the analysis. Refer to the file *flight_delays_report_code.Rmd* for all the code written.**
+**Please see the file *pdf_report* for a detailed breakdown of the analysis. <br>
+Download *report_interactive* to navigate through the interactive data visualizations. <br>
+Refer to *code.Rmd* for all the code written.**
