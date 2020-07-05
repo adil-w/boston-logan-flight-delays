@@ -9,8 +9,6 @@ output:
   pdf_document: default
 ---
 
-*Xinman Liu, Melissa Putur, Jiao Sun, Adil Wahab, Rui Xu*
-
 ```{r message=FALSE, warning=FALSE, results='hide'}
 # loading libraries
 library(dplyr)
@@ -721,5 +719,3 @@ In 2015 flights from Boston departed to 62 airports within the United States. Th
 We then explored what months, time of day, and airlines experienced the most delays. February had the highest delay time on average in minutes for the year of 2015, this was likely caused by the fact that February was the snowiest month on record in Boston since 1891. Also, flights typically experienced longer departure and arrival delays in the morning as compared to the evening. Finally Jet Blue had the most number of flights departing early.
 
 We dug in several different ways to explore the relationship between departing late and arriving late. Of the 39,000 flights that departed late, 12,000 still managed to arrive at their destination airport on time. We found that in general, the longer a flight is the more likely it would be to arrive on time despite experiencing a flight delay.
-
-
